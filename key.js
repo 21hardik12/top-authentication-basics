@@ -1,0 +1,1 @@
+module.exports.mongoDb = "mongodb+srv://selfishhenry:Selfishhenry0806@cluster0.yqcs0hp.mongodb.net/local_library?retryWrites=true&w=majority&appName=Cluster0";
